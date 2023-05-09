@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Application.deps.json
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Application.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Application.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Domain.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Persistence.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Persistence.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Application\bin\Debug\net6.0\Vendors.Domain.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.AssemblyInfo.cs
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.csproj.CopyComplete
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\refint\Vendors.Application.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\Vendors.Application.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Application\obj\Debug\net6.0\ref\Vendors.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\bin\Debug\net6.0\Vendors.Domain.deps.json
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\bin\Debug\net6.0\Vendors.Domain.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\bin\Debug\net6.0\Vendors.Domain.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\refint\Vendors.Domain.dll
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\Vendors.Domain.pdb
+C:\Users\USER\source\repos\Vendors\Vendors.Domain\obj\Debug\net6.0\ref\Vendors.Domain.dll
