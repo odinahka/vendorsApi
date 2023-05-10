@@ -20,8 +20,8 @@ namespace VendorsAPI.Controllers
             return Ok(result);
         }
 
-        [HttpPost("/vendors")]
-        public async Task<IActionResult> getVendors()
+        [HttpGet("/vendors")]
+        public async Task<IActionResult> GetVendors()
         {
             var result = await _vendorsApp.GetAllVendors();
             return Ok(result);
